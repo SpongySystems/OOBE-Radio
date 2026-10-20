@@ -1,0 +1,14 @@
+{
+  "type": "code",
+  "modid": "ooberadio",
+  "name": "Out of Bounds Radio",
+  "authors": ["Out of Bounds"],
+  "description": "Listen to Out of Bounds live radio anywhere. Open the player with Ctrl+Alt+R or .ooberadio. Game music is restored when playback stops.",
+  "version": "1.0.0",
+  "networkVersion": "1.0.0",
+  "side": "Universal",
+  "requiredOnClient": true,
+  "requiredOnServer": true,
+  "website": "https://radio.outofbounds.live",
+  "dependencies": {"game": "1.22.7"}
+}
